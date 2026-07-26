@@ -1,0 +1,6 @@
+{
+  "name": "Deus Te Ama",
+  "description": "Um aplicativo de mensagens de fé e orações inspiradoras, incluindo um player de vídeo e checkout seguro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
